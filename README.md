@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RaphaeIII
 - 👀 I’m interested in RF, Web, Design...
 - 🌱 I’m currently learning: High Power RF Devices
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: rafael00hakobyan@gmail.com
 
 <!---
